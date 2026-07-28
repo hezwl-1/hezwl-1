@@ -1,17 +1,19 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=220&section=header&text=Hi,%20I'm%20hez&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Tools%20%7C%20Browser%20Extension%20%7C%20Web%20Developer&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=220&section=header&text=Hi,%20I'm%20hez&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Tools%20%7C%20Mini%20Program%20%7C%20Android%20%7C%20Web%20Developer&descAlignY=58&descSize=18" />
 
 # ?? ????? hez
 
-### ?? AI ????? / ??????? / Web ????
+### ?? AI ????? / ????? / ???? / ??????? / Web ????
 
 <p>
   <img src="https://img.shields.io/badge/Author-hez-7c3aed?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GPT--5.5-????-10a37f?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Chrome-Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-????-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/???-??-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-??-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
 </div>
@@ -21,7 +23,7 @@
 ## ? ???
 
 - ?? ?????**??????????**
-- ?? ?????AI ?????????????Web ??
+- ?? ?????AI ????????????????????????Web ??
 - ?? ?????[https://hezwl.cn/](https://hezwl.cn/)
 - ??? ???????????????????????
 
@@ -51,7 +53,7 @@
 ## ?? ???
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,github,git,vscode,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,androidstudio,kotlin,java,github,git,vscode,cloudflare" />
 </p>
 
 ---
