@@ -1,56 +1,54 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=220&section=header&text=Hi,%20I'm%20hez&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Tools%20%7C%20Mini%20Program%20%7C%20Android%20%7C%20Web%20Developer&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=230&section=header&text=Hi,%20I'm%20hez&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Tools%20%7C%20Mini%20Program%20%7C%20Android%20%7C%20Web%20Developer&descAlignY=58&descSize=18" />
 
-# ?? ????? hez
+# ?? 你好，我是 hez
 
-### ?? AI ????? / ????? / ???? / ??????? / Web ????
+### ?? AI 工具开发者 / 小程序开发 / 安卓开发 / 浏览器插件 / Web 开发
 
 <p>
   <img src="https://img.shields.io/badge/Author-hez-7c3aed?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GPT--5.5-????-10a37f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GPT--5.5-Development-10a37f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mini%20Program-Developer-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-Developer-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Chrome-Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-????-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/???-??-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-??-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
 </div>
 
 ---
 
-## ? ???
+## ? 关于我
 
-- ?? ?????**??????????**
-- ?? ?????AI ????????????????????????Web ??
-- ?? ?????[https://hezwl.cn/](https://hezwl.cn/)
-- ??? ???????????????????????
+- ?? 正在开发：**网页实时自动翻译助手**
+- ?? 关注方向：AI 工具、小程序、安卓 App、浏览器插件、Web 应用
+- ?? 个人网站：[https://hezwl.cn/](https://hezwl.cn/)
+- ??? 喜欢把实用工具做成简单、好用、可分享的开源项目
 
 ---
 
-## ?? ??????
+## ?? 我的开源项目
 
 ### ?? Smooth Web Translator
 
-> ???????????? **hez ?? GPT-5.5 ??**?
+> 网页实时自动翻译助手，由 **hez 使用 GPT-5.5 开发**。
 
 [![Repo](https://img.shields.io/badge/GitHub-smooth--web--translator-181717?style=for-the-badge&logo=github)](https://github.com/hezwl-1/smooth-web-translator)
 [![Release](https://img.shields.io/github/v/release/hezwl-1/smooth-web-translator?style=for-the-badge&label=Release)](https://github.com/hezwl-1/smooth-web-translator/releases)
 [![License](https://img.shields.io/github/license/hezwl-1/smooth-web-translator?style=for-the-badge)](https://github.com/hezwl-1/smooth-web-translator/blob/main/LICENSE)
 
-#### ????
+#### 功能亮点
 
-- ? ????????
-- ?? ?? Chrome / Edge ???
-- ??? ???????????????
-- ?? ????????????
-- ?? ?????????????
-- ?? ????????
+- ? 实时自动翻译网页
+- ?? 支持 Chrome / Edge 浏览器
+- ??? 支持菜单、按钮、输入框提示补翻
+- ?? 自带翻译进度条和加载动画
+- ?? 低卡顿优化，页面切换更丝滑
 
 ---
 
-## ?? ???
+## ?? 技术方向
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,androidstudio,kotlin,java,github,git,vscode,cloudflare" />
@@ -58,38 +56,24 @@
 
 ---
 
-## ?? GitHub ??
+## ?? GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hezwl-1&show_icons=true&theme=tokyonight&hide_border=true&locale=cn" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hezwl-1&layout=compact&theme=tokyonight&hide_border=true&locale=cn" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hezwl-1&theme=tokyo-night&hide_border=true&area=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hezwl-1&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hezwl-1&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## ?? ???
+## ?? 联系我
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/????-hezwl.cn-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hezwl.cn/)
+[![Website](https://img.shields.io/badge/Website-hezwl.cn-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hezwl.cn/)
 [![GitHub](https://img.shields.io/badge/GitHub-hezwl--1-181717?style=for-the-badge&logo=github)](https://github.com/hezwl-1)
 
 </div>
 
----
-
-<div align="center">
-
-### ? ???????????? Star ??
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:91EAE4,50:86A8E7,100:7F7FD5&height=120&section=footer" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=120&section=footer" />
